@@ -1,0 +1,5 @@
+Bluemix Deploy:
+
+$ cf api https://api.ng.bluemix.net
+$ cf login
+$ cf push

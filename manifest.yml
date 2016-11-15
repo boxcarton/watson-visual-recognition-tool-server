@@ -1,0 +1,6 @@
+---
+applications:
+- name: watson-visual-recognition-tool-server
+  path: .
+  memory: 512M
+  instances: 1

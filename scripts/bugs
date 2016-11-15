@@ -1,0 +1,5 @@
+bugs
+
+endpont should be able to handle file without hard checking for .zip extension, if that's the case - need to throw more specific error than learning tasked failed: command line
+
+need to handle Python image_url = None, currently only handles image_url = ''
