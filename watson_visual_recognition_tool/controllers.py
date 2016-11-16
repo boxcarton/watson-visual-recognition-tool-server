@@ -5,7 +5,7 @@ from functools import update_wrapper
 
 from flask import Flask, request, Response, g
 from flask import render_template, url_for, send_from_directory
-from flask import make_response, abort, jsonify
+from flask import make_response, abort, jsonify, current_app
 
 from watson_developer_cloud import VisualRecognitionV3
 from watson_visual_recognition import WatsonVisualRecognition
