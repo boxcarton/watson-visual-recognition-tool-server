@@ -1,5 +1,0 @@
-curl -X GET "https://gateway-a.watsonplatform.net/visual-recognition/api/v3/classifiers?api_key=2d7f02e6708f3562a043ebf31159ff849d94d123&version=2016-05-20"
-
-curl -X GET "https://gateway-a.watsonplatform.net/visual-recognition/api/v3/classifiers/beagle_81816899?api_key=2d7f02e6708f3562a043ebf31159ff849d94d123&version=2016-05-20"
-
-curl -X GET "http://watson-visual-recognition-tool-server.mybluemix.net/api/classifiers?apiKey=2d7f02e6708f3562a043ebf31159ff849d94d123&version=2016-05-20"
